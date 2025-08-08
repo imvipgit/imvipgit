@@ -1,4 +1,6 @@
-<!-- <meta name="google-site-verification" content="amz3rSRS6l1N2qnQADVUFzc38ysxLXlfbwJ3jXERZigBg" /> -->
+<!--
+Hello Vipul! I've fixed the broken LinkedIn link and re-added the Medium link.
+-->
 
 <div align="center">
 <h1>
@@ -46,9 +48,12 @@ I'm always open to interesting conversations and new opportunities. You can find
 
 LinkedIn
 
+Medium
+
 <!--
 This is the Google verification tag. It's hidden from view but allows Google to verify your site.
 You can safely leave this here.
 -->
 
+<!-- <meta name="google-site-verification" content="amz3rSRS6l1N2qnQADVUFzc38ysxLXlfbwJ3jXERZigBg" /> -->
 
