@@ -1,11 +1,4 @@
 <!-- <meta name="google-site-verification" content="amz3rSRS6l1N2qnQADVUFzc38ysxLXlfbwJ3jXERZigBg" /> -->
-<!--
-Hello Vipul! This README has been updated with the new tagline and focus from your website's homepage.
-
-The header and "About Me" section now reflect your dual focus on "Deep Tech and Deep Woods."
-
-The "Areas of Focus" section is more specific to your work in Semiconductors, IoT, and Edge AI.
--->
 
 <div align="center">
 <h1>
@@ -47,24 +40,15 @@ You can learn more about my approach and the work I do on my website.
 🌐 <a href="https://www.vipulsindha.com/">www.vipulsindha.com</a>
 </p>
 
-📊 My GitHub Stats
-
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dimvipgit%26show_icons%3Dtrue%26theme%3Ddracula" alt="imvipgit's GitHub stats" />
-<br/>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dimvipgit%26layout%3Dcompact%26theme%3Ddracula" alt="Top Langs" />
-</p>
-
 🤝 Connect with Me
 
-I'm always open to interesting conversations and new opportunities.
+I'm always open to interesting conversations and new opportunities. You can find me on:
 
-<p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/vipulsindha" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vipul Sindha's LinkedIn" height="30" width="40" /></a>
-<a href="https://medium.com/@vipul.sindha" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Vipul Sindha's Medium" height="30" width="40" /></a>
-</p>
+LinkedIn
 
 <!--
 This is the Google verification tag. It's hidden from view but allows Google to verify your site.
 You can safely leave this here.
 -->
+
+
