@@ -1,4 +1,4 @@
-<!-- <meta name="google-site-verification" content="amz3rSRS6l1N2qnQADVUFzc38ysxLXlfbwJ3jXERZigBg" /> -->
+<meta name="google-site-verification" content="amz3rS86lIN2qnQADVUfzc38ysxLxLfbWJjXERZigBg" />
 
 
 <div align="center">
