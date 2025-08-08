@@ -1,5 +1,8 @@
+<!-- <meta name="google-site-verification" content="amz3rSRS6l1N2qnQADVUFzc38ysxLXlfbwJ3jXERZigBg" /> -->
+
 <!--
-Hello Vipul! I've fixed the broken LinkedIn link and re-added the Medium link.
+Hello Vipul! The Google verification tag is now on the first line.
+I've also fixed the broken LinkedIn icon and link.
 -->
 
 <div align="center">
@@ -46,14 +49,7 @@ You can learn more about my approach and the work I do on my website.
 
 I'm always open to interesting conversations and new opportunities. You can find me on:
 
-LinkedIn
-
-Medium
-
-<!--
-This is the Google verification tag. It's hidden from view but allows Google to verify your site.
-You can safely leave this here.
--->
-
-<!-- <meta name="google-site-verification" content="amz3rSRS6l1N2qnQADVUFzc38ysxLXlfbwJ3jXERZigBg" /> -->
+<p align="left">
+<a href="https://www.google.com/search?q=https://linkedin.com/in/vipulsindha" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vipul Sindha's LinkedIn" height="30" width="40" /></a>
+</p>
 
