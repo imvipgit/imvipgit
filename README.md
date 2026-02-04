@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>
-Vipul Sindha
+Paul Sindha
 </h1>
 <p>
 <strong>Wandering Between Deep Tech and Deep Woods</strong>
