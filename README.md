@@ -37,7 +37,7 @@ Complex Problem Solving: Deconstructing ambiguous challenges into actionable ste
 You can learn more about my approach and the work I do on my website.
 </p>
 <p align="left">
-🌐 <a href="https://www.vipulsindha.com/">www.vipulsindha.com</a>
+🌐 <a href="https://www.paulwonder.com/">www.paulwonder.com</a>
 </p>
 
 🤝 Connect with Me
@@ -45,6 +45,6 @@ You can learn more about my approach and the work I do on my website.
 I'm always open to interesting conversations and new opportunities. You can find me on:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vipulsindha/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn" height="30" width="40" />LinkedIn</a>
+<a href="https://www.linkedin.com/in/paul-sindha/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="LinkedIn" height="30" width="40" />LinkedIn</a>
 </p>
 
